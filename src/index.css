@@ -1,0 +1,39 @@
+html {
+  font-family:
+    'Marker Felt',
+    'Trebuchet MS',
+    'Arial Rounded MT Bold',
+    sans-serif;
+  background: #09050d;
+  color: #fff8ec;
+  line-height: 1.5;
+  font-weight: 500;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+h1,
+h2,
+h3 {
+  font-family:
+    'Avenir Next Condensed',
+    'Trebuchet MS',
+    sans-serif;
+  letter-spacing: 0.02em;
+}
+
+#root {
+  min-height: 100vh;
+}
